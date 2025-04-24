@@ -1,3 +1,3 @@
-# datawhys-intern-notebooks-2024
+# datawhys-intern-notebooks-2025
 
-Notebooks for the DataWhys 2024 Summer Internship. 
+Notebooks for the DataWhys 2025 Summer Internship. 
